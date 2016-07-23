@@ -1,0 +1,28 @@
+name: plasma
+favicon: null
+layout_spectrum: 0.12521158950403333
+typography_spectrum: 0.5769132724963129
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6189213208854198
+  lightness: 0.13743955688551068
+  saturation: 0.13979420601390302
+  rhythmicContrast: 0.37518533575348556
+purpose: []
